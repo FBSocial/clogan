@@ -26,10 +26,13 @@ class Clogan {
 
   static void init(String cacheDir, String pathDir, int maxFile, int max_count,
       String encryptKey, String encryptIv) {
-
     nativeLogLib = Platform.isAndroid
-    ? DynamicLibrary.open("liblogan.so"): DynamicLibrary.process();
+        ? DynamicLibrary.open("liblogan.so")
+        : DynamicLibrary.process();
 
+    if (nativeLogLib == null) {
+      return;
+    }
     final loganInitPointer =
         nativeLogLib!.lookup<NativeFunction<LoganInit>>('clogan_init');
     final init = loganInitPointer.asFunction<LoganInitDart>();
@@ -39,6 +42,9 @@ class Clogan {
   }
 
   static void open(String fileName) {
+    if (nativeLogLib == null) {
+      return;
+    }
     final openLogan =
         nativeLogLib!.lookup<NativeFunction<LoganOpenFile>>('clogan_open');
     final open = openLogan.asFunction<LoganOpenFileDart>();
@@ -51,6 +57,9 @@ class Clogan {
 
   static void write(int flag, String log, int time, String threadName,
       int threadId, bool isMainThread) {
+    if (nativeLogLib == null) {
+      return;
+    }
     final writeLogan =
         nativeLogLib!.lookup<NativeFunction<WriteLog>>('clogan_write');
     final write = writeLogan.asFunction<WriteLogDart>();
@@ -59,7 +68,11 @@ class Clogan {
   }
 
   static void flush() {
-    final flushLogan = nativeLogLib!.lookup<NativeFunction<loganFlush>>('clogan_flush');
+    if (nativeLogLib == null) {
+      return;
+    }
+    final flushLogan =
+        nativeLogLib!.lookup<NativeFunction<loganFlush>>('clogan_flush');
     final flush = flushLogan.asFunction<loganFlushDart>();
     flush();
   }
