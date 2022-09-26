@@ -1,0 +1,7 @@
+Executable : /Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a
+logan
+jvmArgs : 
+

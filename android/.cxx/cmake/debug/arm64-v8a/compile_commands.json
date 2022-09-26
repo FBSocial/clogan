@@ -1,0 +1,493 @@
+[
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlogan_EXPORTS -I../../../../../ios/Classes/logan  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o CMakeFiles/logan.dir/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/cloger_logan.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/cloger_logan.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/cloger_logan.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/clogan_core.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/clogan_core.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/clogan_core.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/mmap_util.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mmap_util.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mmap_util.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/cJSON.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/cJSON.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/cJSON.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/construct_data.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/construct_data.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/construct_data.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/zlib_util.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/zlib_util.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/zlib_util.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/json_util.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/json_util.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/json_util.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/aes_util.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/aes_util.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/aes_util.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/directory_util.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/directory_util.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/directory_util.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/base_util.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/base_util.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/base_util.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/CMakeFiles/clogan.dir/console_util.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/console_util.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/console_util.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/aes.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/aes.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/aes.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/aesni.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/aesni.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/aesni.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/arc4.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/arc4.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/arc4.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/asn1parse.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/asn1parse.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/asn1parse.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/asn1write.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/asn1write.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/asn1write.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/base64.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/base64.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/base64.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/bignum.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/bignum.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/bignum.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/blowfish.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/blowfish.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/blowfish.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/camellia.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/camellia.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/camellia.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/ccm.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ccm.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ccm.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/cipher.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cipher.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cipher.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/cipher_wrap.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cipher_wrap.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cipher_wrap.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/cmac.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cmac.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cmac.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/ctr_drbg.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ctr_drbg.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ctr_drbg.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/des.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/des.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/des.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/dhm.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/dhm.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/dhm.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/ecdh.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecdh.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecdh.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/ecdsa.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecdsa.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecdsa.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/ecjpake.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecjpake.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecjpake.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/ecp.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecp.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecp.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/ecp_curves.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecp_curves.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecp_curves.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/entropy.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/entropy.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/entropy.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/entropy_poll.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/entropy_poll.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/entropy_poll.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/error.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/error.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/error.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/gcm.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/gcm.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/gcm.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/havege.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/havege.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/havege.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/hmac_drbg.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/hmac_drbg.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/hmac_drbg.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/md.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/md2.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md2.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md2.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/md4.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md4.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md4.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/md5.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md5.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md5.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/md_wrap.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md_wrap.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md_wrap.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/memory_buffer_alloc.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/memory_buffer_alloc.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/memory_buffer_alloc.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/oid.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/oid.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/oid.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/padlock.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/padlock.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/padlock.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/pem.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pem.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pem.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/pk.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pk.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pk.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/pk_wrap.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pk_wrap.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pk_wrap.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/pkcs12.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs12.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs12.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/pkcs5.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs5.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs5.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/pkparse.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkparse.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkparse.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/pkwrite.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkwrite.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkwrite.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/platform.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/platform.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/platform.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/ripemd160.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ripemd160.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ripemd160.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/rsa.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/rsa.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/rsa.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/sha1.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha1.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha1.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/sha256.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha256.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha256.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/sha512.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha512.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha512.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/threading.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/threading.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/threading.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/timing.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/timing.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/timing.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/version.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/version.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/version.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/version_features.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/version_features.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/version_features.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedcrypto.dir/xtea.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/xtea.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/xtea.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/certs.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/certs.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/certs.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/pkcs11.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs11.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs11.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/x509.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/x509_create.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_create.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_create.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/x509_crl.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_crl.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_crl.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/x509_crt.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_crt.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_crt.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/x509_csr.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_csr.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_csr.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/x509write_crt.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509write_crt.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509write_crt.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedx509.dir/x509write_csr.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509write_csr.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509write_csr.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/debug.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/debug.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/debug.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/net_sockets.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/net_sockets.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/net_sockets.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/ssl_cache.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cache.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cache.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_ciphersuites.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_ciphersuites.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/ssl_cli.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cli.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cli.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/ssl_cookie.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cookie.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cookie.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/ssl_srv.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_srv.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_srv.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/ssl_ticket.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_ticket.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_ticket.c"
+},
+
+{
+  "directory": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -g -fPIC   -o clogan.out/clogan.out/CMakeFiles/mbedtls.dir/ssl_tls.c.o   -c /Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_tls.c",
+  "file": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_tls.c"
+}
+]

@@ -1,0 +1,549 @@
+{
+  "stringTable": {
+    "0": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlogan_EXPORTS -I../../../../../ios/Classes/logan -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -g -fPIC",
+    "2": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/./mbedtls/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -g -fPIC",
+    "3": "null"
+  },
+  "buildFiles": [
+    "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/CMakeLists.txt",
+    "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/CMakeLists.txt",
+    "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mbedtls-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a\" mbedtls",
+      "buildType": "debug",
+      "toolchain": "399241031",
+      "abi": "armeabi-v7a",
+      "artifactName": "mbedtls",
+      "files": [
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/debug.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/net_sockets.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cache.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_ciphersuites.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cli.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_cookie.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_srv.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_ticket.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ssl_tls.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a/clogan.out/clogan.out/libmbedtls.a"
+    },
+    "mbedcrypto-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a\" mbedcrypto",
+      "buildType": "debug",
+      "toolchain": "399241031",
+      "abi": "armeabi-v7a",
+      "artifactName": "mbedcrypto",
+      "files": [
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/aes.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/aesni.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/arc4.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/asn1parse.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/asn1write.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/base64.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/bignum.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/blowfish.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/camellia.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ccm.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cipher.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cipher_wrap.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/cmac.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ctr_drbg.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/des.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/dhm.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecdh.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecdsa.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecjpake.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ecp_curves.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/entropy.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/entropy_poll.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/error.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/gcm.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/havege.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/hmac_drbg.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md4.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md5.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/md_wrap.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/memory_buffer_alloc.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/oid.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/padlock.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pem.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pk.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pk_wrap.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs12.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs5.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkparse.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkwrite.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/platform.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/ripemd160.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/rsa.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha1.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha256.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/sha512.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/threading.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/timing.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/version.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/version_features.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/xtea.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a/clogan.out/clogan.out/libmbedcrypto.a"
+    },
+    "clogan-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a\" clogan",
+      "buildType": "debug",
+      "toolchain": "399241031",
+      "abi": "armeabi-v7a",
+      "artifactName": "clogan",
+      "files": [
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/clogan_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mmap_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/cJSON.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/construct_data.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/zlib_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/json_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/aes_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/directory_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/base_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/console_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/zlib_util.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/logan_config.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/json_util.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/aes_util.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/clogan_status.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/directory_util.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/base_util.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/console_util.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a/clogan.out/libclogan.a"
+    },
+    "logan-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a\" logan",
+      "buildType": "debug",
+      "toolchain": "399241031",
+      "abi": "armeabi-v7a",
+      "artifactName": "logan",
+      "files": [
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/cloger_logan.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/example/build/logan_ffi/intermediates/cmake/debug/obj/armeabi-v7a/liblogan.so",
+      "runtimeFiles": []
+    },
+    "lib-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a\" lib",
+      "buildType": "debug",
+      "toolchain": "399241031",
+      "abi": "armeabi-v7a",
+      "artifactName": "lib",
+      "files": [
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a/clogan.out/clogan.out/CMakeFiles/lib",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a/clogan.out/clogan.out/CMakeFiles/lib.rule",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "mbedx509-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/qubian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a\" mbedx509",
+      "buildType": "debug",
+      "toolchain": "399241031",
+      "abi": "armeabi-v7a",
+      "artifactName": "mbedx509",
+      "files": [
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/certs.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/pkcs11.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_create.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_crl.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_crt.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509_csr.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509write_crt.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/ios/Classes/logan/mbedtls/library/x509write_csr.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/qubian/Desktop/Flutter/idreamSky/logan_ffi/android/.cxx/cmake/debug/armeabi-v7a/clogan.out/clogan.out/libmbedx509.a"
+    }
+  },
+  "toolchains": {
+    "399241031": {
+      "cCompilerExecutable": "/Users/qubian/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
