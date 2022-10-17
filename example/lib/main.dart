@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
 
   // Platform messages are asynchronous, so we initialize in an async method.
   Future<void> initPlatformState() async {
-    String platformVersion ='';
+    String platformVersion = '';
 
     if (!mounted) return;
 
@@ -60,7 +60,8 @@ class _MyAppState extends State<MyApp> {
                     print('init cache：${cache}');
                     print('init loger：${loger}');
 
-                    Clogan.init(cache, loger, 10 *1024 * 1024, 3, "0123456789067890", "0123456789067890");
+                    Clogan.init(cache, loger, 10 * 1024 * 1024, 3,
+                        "0123456789067890", "0123456789067890");
                     Clogan.open('chengleilogan.txt');
                     Clogan.write(2, 'chenglei',
                         DateTime.now().millisecondsSinceEpoch, 'main', 1, true);
@@ -74,21 +75,54 @@ class _MyAppState extends State<MyApp> {
                 child: Button(
                   () async {
                     for (int i = 0; i < 900000; i++) {
-                      if(i%2==0){
+                      if (i % 2 == 0) {
                         Clogan.log(
                             1,
                             'loger info --===' +
-                                DateTime.now().millisecondsSinceEpoch.toString());
-                      }else{
+                                DateTime.now()
+                                    .millisecondsSinceEpoch
+                                    .toString());
+                      } else {
                         Clogan.log(
                             2,
                             '222:::' +
-                                DateTime.now().millisecondsSinceEpoch.toString());
+                                DateTime.now()
+                                    .millisecondsSinceEpoch
+                                    .toString());
                       }
-
                     }
                     Clogan.flush();
                     print('init flush');
+                  },
+                  title: '写入 10000 跳数据',
+                ),
+              ),
+              Container(
+                margin: EdgeInsets.all(10),
+                child: Button(
+                  () async {
+                    final List<int> mapList = [1, 2, 3, 4, 5, 6, 7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1];
+                    final List<String> result = [];
+                    print('mapList start ');
+
+                    for (int i in mapList) {
+                      result.add(await getCachePath());
+                    }
+                    print('result size :${result.length} ');
+
+                    // print('============');
+                    // await Future.forEach<int>(mapList, (element) async {
+                    //   result.add(await getCachePath());
+                    // });
+                    // print('result size :${result.length} ');
+                    // print('============');
+                    // await Future.forEach(mapList, (int element) async {
+                    //   result.add(await getCachePath());
+                    //   return Future.delayed(Duration(seconds: element),
+                    //       () => print('this is $element'));
+                    // });
+                    // print('result size :${result.length} ');
+                    print('main end');
                   },
                   title: '写入 10000 跳数据',
                 ),
