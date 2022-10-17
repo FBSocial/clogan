@@ -74,7 +74,7 @@ class _MyAppState extends State<MyApp> {
                 margin: EdgeInsets.all(10),
                 child: Button(
                   () async {
-                    for (int i = 0; i < 900000; i++) {
+                    for (int i = 0; i < 10000; i++) {
                       if (i % 2 == 0) {
                         Clogan.log(
                             1,
