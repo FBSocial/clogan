@@ -29,7 +29,7 @@ A new Flutter project.
       'DEFINES_MODULE' => 'YES',
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386 arm64',
       'EXCLUDED_ARCHS[sdk=iphoneos*]' => 'armv7',
-      'OTHER_LDFLAGS' => '-force_load $(PODS_TARGET_SRCROOT)/libclogan.a'
+      'OTHER_LDFLAGS' => '-force_load $(PODS_TARGET_SRCROOT)/Framework/libclogan.a'
   }
   s.user_target_xcconfig = {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386 arm64',
