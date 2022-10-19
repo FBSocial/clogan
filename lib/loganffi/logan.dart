@@ -16,7 +16,7 @@ typedef LoganOpenFile = Int32 Function(Pointer<Utf8>);
 typedef WriteLogDart = int Function(
     int, Pointer<Utf8>, int, Pointer<Utf8>, int, int);
 typedef WriteLog = Int32 Function(
-    Int32, Pointer<Utf8>, Int64, Pointer<Utf8>, Int64, Int64);
+    Int32, Pointer<Utf8>, Int64, Pointer<Utf8>, Int64, Int32);
 
 typedef loganFlushDart = int Function();
 typedef loganFlush = Int32 Function();
