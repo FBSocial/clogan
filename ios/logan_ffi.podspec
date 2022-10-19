@@ -20,19 +20,19 @@ A new Flutter project.
   s.static_framework = true
 
   # Flutter.framework does not contain a i386 slice.
-  #s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES', 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386' }
+#   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES', 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386' }
 
 
 
-  s.vendored_libraries  = 'libclogan.a'
-#   s.pod_target_xcconfig = {
-#       'DEFINES_MODULE' => 'YES',
-#       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386 arm64',
-#       'EXCLUDED_ARCHS[sdk=iphoneos*]' => 'armv7',
-#       'OTHER_LDFLAGS' => '-force_load $(PODS_TARGET_SRCROOT)/libclogan.a'
-#   }
-#   s.user_target_xcconfig = {
-#       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386 arm64',
-#       'EXCLUDED_ARCHS[sdk=iphoneos*]' => 'armv7'
-#    }
+  s.vendored_libraries  = 'Framework/libclogan.a'
+  s.pod_target_xcconfig = {
+      'DEFINES_MODULE' => 'YES',
+      'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386 arm64',
+      'EXCLUDED_ARCHS[sdk=iphoneos*]' => 'armv7',
+      'OTHER_LDFLAGS' => '-force_load $(PODS_TARGET_SRCROOT)/libclogan.a'
+  }
+  s.user_target_xcconfig = {
+      'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386 arm64',
+      'EXCLUDED_ARCHS[sdk=iphoneos*]' => 'armv7'
+   }
 end
