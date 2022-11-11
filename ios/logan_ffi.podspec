@@ -15,7 +15,6 @@ A new Flutter project.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
-  s.vendored_libraries = 'Framework/libclogan.a'
   s.dependency 'Flutter'
   s.platform = :ios, '9.0'
   s.static_framework = true
