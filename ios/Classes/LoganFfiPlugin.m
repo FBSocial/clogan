@@ -1,5 +1,6 @@
 #import "LoganFfiPlugin.h"
 
+#include "clogan_core.h"
 
 @implementation LoganFfiPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
@@ -17,6 +18,11 @@
     result(FlutterMethodNotImplemented);
   }
 
+}
+
+// 构造空方法，为了让编译器在release 的时候，不能去掉 libclogan.a的引用
+-(void)toUseLibClogan:(int)debug {
+    clogan_debug(debug);
 }
 
 @end
