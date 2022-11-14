@@ -20,16 +20,10 @@
  * THE SOFTWARE.
  */
 
-#ifndef CLOGAN_LOGAN_CORE_H
-#define CLOGAN_LOGAN_CORE_H
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
-#ifdef __cplusplus
-extern "C"
-{
-#endif
-
-#include <zlib.h>
-#include <stdlib.h>
+NS_ASSUME_NONNULL_BEGIN
 
 /**
  * 开放接口
@@ -86,7 +80,5 @@ int clogan_flush(void);
  */
 void clogan_debug(int debug);
 
-#ifdef __cplusplus
-}
-#endif
-#endif //CLOGAN_LOGAN_CORE_H
+
+NS_ASSUME_NONNULL_END

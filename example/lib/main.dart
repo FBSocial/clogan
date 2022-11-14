@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:logan_ffi/flutter_plugin_demo.dart';
 import 'dart:async';
 
 import 'package:path/path.dart';
@@ -30,12 +31,11 @@ class _MyAppState extends State<MyApp> {
 
   // Platform messages are asynchronous, so we initialize in an async method.
   Future<void> initPlatformState() async {
-    String platformVersion = '';
-
+    String? platformVersion = await FlutterPluginDemo().getPlatformVersion();
     if (!mounted) return;
 
     setState(() {
-      _platformVersion = platformVersion;
+      _platformVersion = platformVersion??"";
     });
   }
 
