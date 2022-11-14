@@ -23,6 +23,10 @@
 
 // 构造空方法，为了让编译器在release 的时候，不能去掉 libclogan.a的引用
 -(void)toUseLibClogan:(int)debug {
-    clogan_debug(debug);
+        clogan_init("a", "a", 1, 0, "A", "A");
+        clogan_open(nil);
+        clogan_write(0, "a", 0, 0, 0, 0);
+        clogan_debug(0);
+        clogan_flush();
 }
 @end
