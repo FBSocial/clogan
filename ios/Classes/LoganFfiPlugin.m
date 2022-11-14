@@ -9,12 +9,10 @@
             binaryMessenger:[registrar messenger]];
   LoganFfiPlugin* instance = [[LoganFfiPlugin alloc] init];
   [registrar addMethodCallDelegate:instance channel:channel];
-   clogan_debug(1);
 }
 
 - (void)handleMethodCall:(FlutterMethodCall*)call result:(FlutterResult)result {
   if ([@"getPlatformVersion" isEqualToString:call.method]) {
-    clogan_flush();
     result([@"iOS " stringByAppendingString:[[UIDevice currentDevice] systemVersion]]);
   } else {
     result(FlutterMethodNotImplemented);
