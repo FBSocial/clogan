@@ -21,13 +21,15 @@ if (flutterVersionName == null) {
     flutterVersionName = '1.0'
 }
 
+project.setProperty('target-platform', 'android-arm')
+
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
     compileSdkVersion flutter.compileSdkVersion
-
+    ndkVersion "21.4.7075529"
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
@@ -41,12 +43,40 @@ android {
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
+    flavorDimensions "OP0S0N00666"
+    productFlavors {
+        android {}
+        OP0S0N00666 {}
+        BG0S0N00666 {}
+        HW0S0N00666 {}
+        MZ0S0N00666 {}
+        XM0S0N00662 {}
+        TX0S0N70666 {}
+    }
 
     buildTypes {
         release {
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig signingConfigs.debug
+        }
+        debug {
+            ndk {
+                abiFilters 'armeabi-v7a'
+            }
+            profile {
+                minifyEnabled false //删除无用代码
+                shrinkResources false //删除无用资源
+
+                signingConfig signingConfigs.debug
+                proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+                ndk {
+                    //flutter的armeabi-v7a架构的release so在模拟器和真机上均可正常运行
+                    //release包体为减少包体大小，仅设置armeabi-v7a架构
+                    abiFilters 'armeabi-v7a'
+                }
+            }
         }
     }
 }

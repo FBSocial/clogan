@@ -18,8 +18,11 @@ typedef WriteLogDart = int Function(
 typedef WriteLog = Int32 Function(
     Int32, Pointer<Utf8>, Int64, Pointer<Utf8>, Int64, Int32);
 
-typedef loganFlushDart = int Function();
-typedef loganFlush = Int32 Function();
+typedef LoganFlushDart = int Function();
+typedef LoganFlush = Int32 Function();
+
+typedef LoganDebugDart = int Function(int);
+typedef LoganDebug = Int32 Function(Int32);
 
 class Clogan {
   static DynamicLibrary? nativeLogLib;
@@ -67,13 +70,23 @@ class Clogan {
         isMainThread ? 0 : 1);
   }
 
+  static void debug(int d) {
+    if (nativeLogLib == null) {
+      return;
+    }
+    final cloganDebug =
+    nativeLogLib!.lookup<NativeFunction<LoganDebug>>('clogan_debug');
+    final debug = cloganDebug.asFunction<LoganDebugDart>();
+    debug(d);
+  }
+
   static void flush() {
     if (nativeLogLib == null) {
       return;
     }
     final flushLogan =
-        nativeLogLib!.lookup<NativeFunction<loganFlush>>('clogan_flush');
-    final flush = flushLogan.asFunction<loganFlushDart>();
+        nativeLogLib!.lookup<NativeFunction<LoganFlush>>('clogan_flush');
+    final flush = flushLogan.asFunction<LoganFlushDart>();
     flush();
   }
 }
